@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+  color: wheat;
+    }
+    h3{
+         text-align:center;
+    color:yellow;
+    font-style: italic;
+    } 
+    #uid1{
+         text-align:center;
+        color:green;
+    font-style:oblique;
+    }
+    .classdemo1{
+        text-align:center;
+        color: aqua;
+        font-style:normal;
+    }
+     .classdemo2{
+        
+       text-decoration: underline;
+       text-decoration-color: khaki;
+    }
+    h3.classspecific{
+        text-align:center;
+        color: mediumorchid;
+        font-style:normal;
+    }
+    p, h4{
+        text-align:center;
+        color: sandybrown;
+        font-style:normal;
+    }
+    body{
+        background-image: url("desert.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+         background-attachment: fixed;
+    }
+ 
